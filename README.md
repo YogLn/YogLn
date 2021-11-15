@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogLn&
-hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/YogLn/github-readme-stats)
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogLn&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/YogLn/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogLn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
