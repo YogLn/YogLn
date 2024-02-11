@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning react17.
+- 🌱 I’m currently learning react18.
 - 🤔 I’m looking for help with bug...
 - 💬 You ask me to eat at night.
 - 📫 How to reach me: Here.
