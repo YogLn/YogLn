@@ -13,5 +13,3 @@
  
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YogLn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](http://antzuhl.cn:4000/get/@YogLn)
